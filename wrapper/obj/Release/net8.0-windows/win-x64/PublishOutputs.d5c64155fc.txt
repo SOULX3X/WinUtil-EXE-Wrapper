@@ -1,0 +1,2 @@
+C:\Users\arpit\Documents\GitHub\winutil\wrapper\publish\WinUtil.pdb
+C:\Users\arpit\Documents\GitHub\winutil\wrapper\publish\WinUtil.exe

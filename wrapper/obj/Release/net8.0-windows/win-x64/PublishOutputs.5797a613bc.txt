@@ -1,0 +1,2 @@
+C:\Users\arpit\Downloads\winutil\wrapper\publish\WinUtil.pdb
+C:\Users\arpit\Downloads\winutil\wrapper\publish\WinUtil.exe

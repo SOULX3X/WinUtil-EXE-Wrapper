@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>WinUtil</AssemblyName>
+    <RootNamespace>WinUtilWrapper</RootNamespace>
+    <ApplicationManifest>App.manifest</ApplicationManifest>
+    <Version>1.0.0</Version>
+    <AssemblyTitle>WinUtil Wrapper</AssemblyTitle>
+    <Product>WinUtil Wrapper</Product>
+    <!-- Standalone single-file EXE (no .NET runtime install needed on the
+         target). Everything bundles into one WinUtil.exe (~70 MB). -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+  </PropertyGroup>
+
+</Project>

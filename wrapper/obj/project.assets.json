@@ -82,11 +82,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arpit\\Documents\\GitHub\\winutil\\wrapper\\WinUtilWrapper.csproj",
+      "projectUniqueName": "C:\\Users\\arpit\\Downloads\\winutil\\wrapper\\WinUtilWrapper.csproj",
       "projectName": "WinUtil",
-      "projectPath": "C:\\Users\\arpit\\Documents\\GitHub\\winutil\\wrapper\\WinUtilWrapper.csproj",
+      "projectPath": "C:\\Users\\arpit\\Downloads\\winutil\\wrapper\\WinUtilWrapper.csproj",
       "packagesPath": "C:\\Users\\arpit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arpit\\Documents\\GitHub\\winutil\\wrapper\\obj\\",
+      "outputPath": "C:\\Users\\arpit\\Downloads\\winutil\\wrapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arpit\\AppData\\Roaming\\NuGet\\NuGet.Config"
